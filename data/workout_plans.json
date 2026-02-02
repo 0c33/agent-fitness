@@ -1,0 +1,107 @@
+[
+  {
+    "id": "plan_001",
+    "name": "Calisthenics Foundation Plan (Week 1–4)",
+    "type": "workout_plan",
+    "description": "Build strength, control, and mobility for freestanding handstand.",
+    "duration_minutes": 30,
+    "frequency": "daily",
+    "equipment_needed": [],
+    "exercises": [
+      {
+        "name": "Frog Stand",
+        "type": "core",
+        "skill_type": "static",
+        "intensity": "low",
+        "sets": 3,
+        "reps": 15,
+        "rest_time_seconds": 60
+      },
+      {
+        "name": "Pike Hold",
+        "type": "shoulders",
+        "skill_type": "static",
+        "intensity": "medium",
+        "sets": 3,
+        "reps": 20,
+        "rest_time_seconds": 90
+      },
+      {
+        "name": "Wall Handstand (with support)",
+        "type": "balance",
+        "skill_type": "dynamic",
+        "intensity": "high",
+        "sets": 3,
+        "reps": 15,
+        "rest_time_seconds": 60
+      }
+    ],
+    "tags": ["calisthenics", "foundation", "strength"],
+    "created_by": "Sam",
+    "created_at": "2026-01-31T08:28:00Z"
+  },
+  {
+    "id": "plan_002",
+    "name": "Freestanding Handstand Progression (Week 5–8)",
+    "type": "workout_plan",
+    "description": "Work on balance, control, and endurance for freestanding handstand.",
+    "duration_minutes": 45,
+    "frequency": "daily",
+    "equipment_needed": [],
+    "exercises": [
+      {
+        "name": "Freestanding Handstand (with support)",
+        "type": "balance",
+        "skill_type": "static",
+        "intensity": "high",
+        "sets": 3,
+        "reps": 10,
+        "rest_time_seconds": 90
+      },
+      {
+        "name": "Wall Handstand Push-up",
+        "type": "shoulders",
+        "skill_type": "dynamic",
+        "intensity": "high",
+        "sets": 3,
+        "reps": 15,
+        "rest_time_seconds": 60
+      }
+    ],
+    "tags": ["calisthenics", "freestanding", "balance"],
+    "created_by": "Sam",
+    "created_at": "2026-01-31T08:28:00Z"
+  },
+  {
+    "id": "plan_003",
+    "name": "Advanced Calisthenics (Week 9–12)",
+    "type": "workout_plan",
+    "description": "Build strength, control, and mobility for advanced calisthenics.",
+    "duration_minutes": 60,
+    "frequency": "daily",
+    "equipment_needed": [],
+    "exercises": [
+      {
+        "name": "Handstand Push-up (with support)",
+        "type": "shoulders",
+        "skill_type": "static",
+        "intensity": "high",
+        "sets": 3,
+        "reps": 15,
+        "rest_time_seconds": 90
+      },
+      {
+        "name": "Pike Push-up (with control)",
+        "type": "core",
+        "skill_type": "dynamic",
+        "intensity": "medium",
+        "sets": 3,
+        "reps": 20,
+        "rest_time_seconds": 60
+      }
+    ],
+    "tags": ["calisthenics", "advanced", "strength"],
+    "created_by": "Sam",
+    "created_at": "2026-01-31T08:28:00Z"
+  }
+]

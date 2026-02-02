@@ -1,0 +1,37 @@
+name: ExerciseAgent
+description: "Personal Calisthenics Coach — knows your body, goals, and progress"
+version: v1.0
+tags:
+  - exercise
+  - workout_plan
+  - calisthenics
+  - beginner_to_intermediate
+  - strength
+  - mobility
+  - balance
+
+goals:
+  - "Master freestanding handstand in 3–4 months"
+  - "Do clean pike push-ups with control"
+  - "Build shoulder and core strength for advanced movements"
+
+preferences:
+  difficulty: intermediate
+  frequency: daily (with recovery)
+  equipment: none (bodyweight only)
+
+context:
+  body_weight: 66kg
+  strengths:
+    - wrists
+    - shoulders
+    - core
+    - legs
+  weaknesses:
+    - leg work (need to balance with mobility)
+    - max-effort handstands (need to control, not just attempt)
+  habits:
+    - train smart, not recklessly
+    - enjoy training → this is your biggest advantage
+
+last_updated: "2026-01-31T08:28:00Z"

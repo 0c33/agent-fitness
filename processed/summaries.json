@@ -1,0 +1,32 @@
+[
+  {
+    "id": "summary_001",
+    "agent": "ExerciseAgent",
+    "type": "progress_summary",
+    "content": "Week 1–4: Built strength, control, and mobility for freestanding handstand. Next step: Freestanding Handstand Progression.",
+    "tags": ["calisthenics", "foundation", "strength"],
+    "created_by": "Sam",
+    "created_at": "2026-01-31T08:28:00Z",
+    "status": "progressing"
+  },
+  {
+    "id": "summary_002",
+    "agent": "ExerciseAgent",
+    "type": "progress_summary",
+    "content": "Week 5–8: Worked on balance, control, and endurance for freestanding handstand. Next step: Advanced Calisthenics.",
+    "tags": ["calisthenics", "freestanding", "balance"],
+    "created_by": "Sam",
+    "created_at": "2026-01-31T08:28:00Z",
+    "status": "stalled"
+  },
+  {
+    "id": "summary_003",
+    "agent": "ExerciseAgent",
+    "type": "progress_summary",
+    "content": "Week 9–12: Built strength, control, and mobility for advanced calisthenics. Next step: Master freestanding handstand.",
+    "tags": ["calisthenics", "advanced", "strength"],
+    "created_by": "Sam",
+    "created_at": "2026-01-31T08:28:00Z",
+    "status": "fatigued"
+  }
+]
