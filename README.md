@@ -4,7 +4,6 @@ A minimalist multi-agent reasoning system for fitness coaching — built **witho
 
 > 🔑 **Core insight**: Frameworks hide *why* agents work. This repo shows *how* — through phased reasoning (Analyze → Think → Summarize → Decide) you can build meaningful agent collaboration with <200 lines of core logic.
 
-![Agent Reasoning Pipeline](https://via.placeholder.com/800x300?text=Phase+1%3A+Per-File+Analysis+%E2%86%92+Phase+2%3A+System+Synthesis+%E2%86%92+Phase+3%3A+Improvement+Proposal+%E2%86%92+Phase+4%3A+Critical+Validation)
 
 *(Visual: Simple pipeline diagram showing data flow between agent phases)*
 
